@@ -1,0 +1,13 @@
+# Large NLP Dataset
+data/all_reviews.csv
+
+# Virtual Environments
+venv/
+testenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
